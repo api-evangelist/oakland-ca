@@ -1,0 +1,43 @@
+{
+    "name": "Oakland, CA",
+    "description": "We make tools. They increase access to public information. Some help Oaklanders engage more effectively with local government and with each other. We collaborate with Oakland???s civic stakeholders. We help civic-minded volunteers make a difference in their city.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-27-pm.gif",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "city government",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/oakland-ca\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Oakland, CA",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-27-pm.gif",
+            "humanURL": "https:\/\/www.openoakland.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/oakland-ca-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/oakland-ca-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/www.openoakland.org\/"
+        }
+    ]
+}
